@@ -1,6 +1,6 @@
-## About Nanite Networks
+## About NaniteCDN
 
-> Nanite Networks specializes in comprehensive infrastructure solutions that empower businesses, creators, and communities.
+> NaniteCDN brings fast content delivery and powerful security together in one cost-effective platform. With DNS, DDoS protection, a web application firewall, bot mitigation, and more, NaniteCDN is the perfect solution for businesses of all sizes looking to improve their website performance and security.
 
 ## Our Links
   - **Website**: [nanitecdn.com](https://nanitecdn.com)
