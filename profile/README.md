@@ -9,4 +9,5 @@
 ## Contact Us
 
 - **General Enquiries**: [hello@nanitecdn.com](mailto:hello@nanitecdn.com)
+- **Support**: [support@nanitecdn.com](mailto:support@nanitecdn.com)
 - **Legal Enquiries** (DMCA, Legal requests): [legal@nanitenetworks.com](mailto:legal@nanitenetworks.com)
