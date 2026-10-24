@@ -4,7 +4,6 @@
 
 ## Our Links
   - **Website**: [nanitecdn.com](https://nanitecdn.com)
-  - **GitHub**: [github.com/nanitecdn](https://github.com/nanitecdn)
   - **Discord**: [Join NaniteCDN Discord](https://discord.gg/u3K8vMkRm6)
 
 ## Contact Us
